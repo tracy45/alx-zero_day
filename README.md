@@ -1,1 +1,1 @@
-My first readme
+Successful git project
